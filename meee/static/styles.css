@@ -1,0 +1,17 @@
+
+.wrapper{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+.main-container{
+    border: 10px solid gray;
+    max-width: 700px;
+    width: 100%;
+    display: grid;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
